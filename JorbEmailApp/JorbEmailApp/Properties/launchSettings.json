@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "JorbEmailApp (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "JorbEmailApp (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
